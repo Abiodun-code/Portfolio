@@ -23,7 +23,7 @@ const About = () => {
             }
           </div>
           <div className="p-4 text-center mt-12 rounded-md bg-green bg-opacity-60 xl:w-[20%] lg:w-[30%] w-[50%] mx-auto">
-            <a href="" className=" xl:text-xl font-semibold text-white font-secondary">View Resume</a>
+            <a href="/OlaroungbeReact.pdf" className=" xl:text-xl font-semibold text-white font-secondary">View Resume</a>
           </div>
        </div>
       </div>

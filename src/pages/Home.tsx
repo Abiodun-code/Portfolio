@@ -2,7 +2,7 @@ import image from '../assets/me.jpg'
 
 const Home = () => {
   return (
-    <div className="w-auto h-auto">
+    <div className=" w-auto h-auto">
       <div className="container mx-auto w-auto xl:px-20 px-3 xl:py-72 lg:py-36 py-20">
         <div className="lg:w-[79%] h-auto w-auto  lg:mx-auto xl:w-[78%] xl:mx-auto flex xl:flex-row lg:flex-row flex-col justify-center items-center">
           <div className="w-auto h-96 xl:w-90 xl:h-60 lg:w-72 xl:bg-blue-300 lg:h-64 object-cover rounded-md">
