@@ -2,6 +2,7 @@ import NavBar from "./components/NavBar"
 import About from "./pages/About"
 import Home from "./pages/Home"
 import Technology from "./pages/Technology"
+import Work from "./pages/Work"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Home/>
       <About/>
       <Technology/>
+      <Work/>
     </>
   )
 }

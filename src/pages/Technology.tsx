@@ -8,8 +8,8 @@ const Technology = () => {
           <h1 className='text-5xl font-primary xl:text-[40px] lg:text-[60px] tracking-wider font-extrabold capitalize'>Technologies i use</h1>
           <div className="flex flex-wrap justify-center items-center gap-8 pt-8">
             {Framework.map((item, idx)=>(
-              <div key={idx} className="items-center flex justify-center w-14 h-14 object-contain">
-                <img src={item.image} className="w-14 h-14 object-contain" alt="" />
+              <div key={idx} className="items-center flex justify-center w-12 h-12 object-contain">
+                <img src={item.image} className="w-12 text-white h-12 object-contain" alt="" />
               </div>
             ))}
           </div>
