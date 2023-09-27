@@ -2,7 +2,7 @@ import { Code } from "../context/AboutData"
 
 const About = () => {
   return (
-    <div className="w-auto h-auto">
+    <div className="w-auto h-auto ">
       <div className="container mx-auto xl:max-w-[80%] lg:max-w-[85%] w-auto bg-glass rounded-md px-3">
        <div className="py-5 px-3 ">
           <h1 className="text-green font-bold font-primary text-2xl">About Me ⚡</h1>
