@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-black w-auto h-auto bg-opacity-90 pb-2;
+    @apply bg-black w-auto h-auto bg-opacity-90 pb-5;
   }
 }

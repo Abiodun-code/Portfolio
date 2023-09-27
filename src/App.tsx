@@ -1,5 +1,6 @@
 import NavBar from "./components/NavBar"
 import About from "./pages/About"
+import Footer from "./pages/Footer"
 import Home from "./pages/Home"
 import Technology from "./pages/Technology"
 import Work from "./pages/Work"
@@ -13,6 +14,7 @@ function App() {
       <About/>
       <Technology/>
       <Work/>
+      <Footer/>
     </>
   )
 }

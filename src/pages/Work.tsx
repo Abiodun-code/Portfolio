@@ -17,6 +17,9 @@ const Work = () => {
               </div>
             ))}
           </div>
+          <div className="pt-8">
+            <a href="https://github.com/Abiodun-code" className="capitalize font-primary text-xl tracking-wider">View more</a>
+          </div>
         </div>
       </div>
     </div>

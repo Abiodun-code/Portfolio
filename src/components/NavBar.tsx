@@ -8,7 +8,7 @@ const NavBar = () => {
             <div className="w-5 h-5 bg-yellow-500 shadow-xl rounded-full"></div>
             <h1 className="text-white font-primary font-medium text-xl tracking-wider">Abiodun code.</h1>
           </div>
-          <div className="text-2xl">👋</div>
+          <div className="text-2xl ">👋</div>
         </div>
       </div>
     </div>
