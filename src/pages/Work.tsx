@@ -6,7 +6,7 @@ const Work = () => {
     <div className="w-auto h-auto">
       <div className="container mx-auto xl:max-w-[80%] lg:max-w-[85%] px-3 pt-20">
         <div className="block justify-center items-center py-5 text-white text-center">
-          <h1 className='text-5xl font-primary xl:text-[40px] lg:text-[60px] tracking-wider font-extrabold capitalize'>some items have work on</h1>
+          <h1 className='text-5xl font-primary xl:text-[40px] lg:text-[60px] tracking-wider font-extrabold capitalize'>some projects have worked on 💪🏽</h1>
           <div className="flex flex-wrap justify-center items-center gap-8 pt-8">
             {Portfolio.map((item, idx) => (
               <div key={idx} className=" relative items-center flex justify-center bg-glass w-80 h-96 group transition rounded-md">
