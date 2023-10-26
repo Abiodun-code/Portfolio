@@ -2,7 +2,7 @@ export const Code = [
   {
     icon: "🎯",
     name: "Open Source",
-    text: "As an active contributor to the GitHub maintainers community, I contribute to impactful Open Source projects. Notable engagements include Open Sauce and Astro.build, reflecting dedication to enhancing the tech landscape."
+    text: "As an active contributor to the GitHub maintainers community, I contribute to impactful Open Source projects. Notable engagements include Project like Rexhealth, reflecting dedication to enhancing the tech landscape."
   },
   {
     icon: "🎨",
