@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto xl:max-w-[80%] lg:max-w-[85%] px-3">
         <div className="block justify-between items-center">
           <div className="block">
-            <h1 className="text-white font-primary font-medium text-xl tracking-wider">Email</h1>
+            <h1 className="text-white font-primary font-medium text-xl tracking-wider">📫 Email</h1>
             <a href="mailto:olaroungbejamiu@gmail.com" className="text-white font-seconday text-lg tracking-wider">olaroungbejamiu@gmail.com</a>
           </div>
           <div className="flex items-center gap-x-2 justify-between pt-10">
