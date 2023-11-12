@@ -6,7 +6,8 @@ import Technology from "./pages/Technology"
 import Work from "./pages/Work"
 
 function App() {
-  return (
+  
+return (
     <>
       <NavBar/>
       <Home/>
