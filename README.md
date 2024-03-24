@@ -2,7 +2,6 @@
 
 
 
-
 # React + TypeScript + Vite
 
 This template provide a minimal setup to get React working in Vite with HMR and some ESLint rules.
